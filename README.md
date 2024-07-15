@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm Christian Sanchez, a dedicated and motivated s
 #### Programming Languages:
 - JavaScript
 - TypeScript
+- Python
 
 #### Web Development:
 - HTML
