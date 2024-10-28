@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm Christian Sanchez, a dedicated and motivated s
 - JavaScript
 - TypeScript
 - Python
+- C#
 
 #### Web Development:
 - HTML
